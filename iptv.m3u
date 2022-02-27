@@ -26,2170 +26,361 @@ http://free.tv1.live:80/goldstv.com/OIqpIpFJOw/7900
 
 ########################
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77838
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77839
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC 3 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77840
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC 4 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77841
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC ACTION ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77842
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC DRAMA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77843
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC BOLLYWOOD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77844
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Arabiya HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77845
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Clip HD | Rotana ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77846
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Drama HD | Rotana  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77847
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Khalijiah HD | Rotana  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77848
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Classic HD | Rotana ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77849
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Comedy | Rotana  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77850
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cinema HD | Rotana  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77851
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Music HD | Rotana ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77852
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Resala HD | ISLAM ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77853
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Tunisia Nat 1 | TUNISIA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77855
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Tunisia Nat 2 | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77856
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Carthage+ | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77857
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | M Tunisia | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77858
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Telvza TV | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77859
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Tunisna | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77860
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ATTESSIA | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77861
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | EL HIWAR ETTOUNSI | Tunisia  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77862
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | NESSMA | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77864
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  CNBC Arabiya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77866
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Almajd Quoran ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77867
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sama Dubai | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77868
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Euronews Arabia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77870
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Almajd Hadithe ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77871
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Dubai Racing 2 | Dubai Sport ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77872
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  France 24 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77873
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Dubai Sports 3 | Dubai Sports ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77874
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | France 24 HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77875
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Dubai Racing 3 | Dubai Sports ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77877
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | BBC Arabic ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77878
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Iqra TV | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77879
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Dubai One | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77880
-#EXTINF:0 tvg-id="ext" group-title="Channels",| AR |  Almajd ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77881
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  KSA Sports 3 FHD ⓧ | Sports
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77882
-#EXTINF:0 tvg-id="ext" group-title="Channels",| AR |  Future TV | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77883
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Dubai TV | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77884
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Saudi TV HD  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77885
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Noor Dubai | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77886
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Jordan TV | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77887
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Almajd Education ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77888
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | JORDAN SAMA | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77890
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| JORDAN NOW | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77891
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Darsak 2 | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77892
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| El Adjwaa TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77893
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Syria Drama | Syria ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77894
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Amen | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77895
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALHAQIQA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77896
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Makkah TV | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77897
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Libya 218 News | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77898
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Libya 218 | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77899
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dzair Jannah | Algerie  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77900
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Hannibal | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77901
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| UTV Iraq | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77902
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | 2M MAROC | Morocco
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77903
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALGERIE 3 | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77904
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Canal | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77905
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  MBC MASR 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77906
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  SPACETOON | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77907
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  LIBYAN TV | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77910
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Libya One TV | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77912
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Ahlu Alquran | Islamⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77913
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Mergab ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77914
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | 12 Arabia | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77916
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | HADRAMAUT TV | Yemen ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77917
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  DOLLY MOSALSALAT | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77918
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Alquds Alyawm ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77919
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  El Djazair N1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77920
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al-Awhad TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77921
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  AL MASSAR ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77922
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Libya Sport Channel | Libya Sport ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77924
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AE|  Dubai Zaman | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77925
-#EXTINF:0 tvg-id="ext" group-title="Channels",| AR | Dubai Sports 2 | Dubai Sports HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77927
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| M24 MAROC | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77928
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  ON Drama | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77929
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MDEEH | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77930
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Mix ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77931
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ON  E | Egypt  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77932
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  CBC Drama | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77933
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Extra News | News ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77934
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ON TIME | Sport ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77935
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MBC IRAQ | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77937
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  EL HEDDAF TV | Algeria  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77938
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  ZEE ALWAN | MBC | OSN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77939
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ON TIME 2 | Sport ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77940
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  ECHOROUK NEWS | Algerie | News ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77941
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| NUMIDIA TV | Algerie
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77942
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CBC | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77944
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  EL DJAZAIRIA TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77945
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ZAD TV | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77946
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  EL HAYAT TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77949
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  CBC Sofra | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77950
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ELBILAD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77951
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  EL FADJR TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77952
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Echorouk TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77953
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Oscar TV | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77954
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Citruss TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77955
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | STAR CINEMA 2 | Movies ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77956
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALSALAM | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77957
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | NourSat ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77958
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Al-Nahar Drama | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77959
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ADEN TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77960
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Jazeera Documentary HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77961
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  LANA PLUS
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77963
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Culture | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77965
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Emarat TV HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77966
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Saudi 24 FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77967
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Abu Dhabi TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77968
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  DMC Sport ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77969
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SHA3BEYAT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77970
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Drama | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77971
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Maspero Zaman ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77972
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | KARAMEESH ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77973
-#EXTINF:0 tvg-id="ext" group-title="Channels",|EG| TIME SPORTS2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77974
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL JAMAHIRIA TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77975
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Noursat Shebab ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77976
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Ahrar HD | Libya  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77977
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  AL SA3A MASRA7
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77978
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| dmc News
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77979
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ⓧ BERBERE TV | Algerie
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77981
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CNN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77982
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Family Drama ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77983
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Almagd TVⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77984
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL BAIT BAITAK CINEMA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77985
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Al-Nahar One
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77986
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Thanya | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77987
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL SA3AA MOSALSALATE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77988
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MICKEY TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77989
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Zaytoona ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77990
-#EXTINF:0 tvg-id="ext" group-title="Channels",|LI|  Libya News
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77991
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Mahaba | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77992
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  TAHA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77994
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Bahia TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77995
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Alrayat Alsud
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77996
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Life | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77997
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  ZILZAL CLASSIC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77998
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL-SHAREYYAH CHANNEL
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/77999
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Libyas Channel | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78000
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Mawsleya | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78001
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | M Cinema | Classics ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78002
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Bethel TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78003
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL ALAM ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78004
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | News | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78005
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Drama 1 | Panorama  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78006
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL RAHMA | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78007
-#EXTINF:0 tvg-id="ext" group-title="Channels",|YE| Sawt Alitra
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78008
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Yemen Today FHD | Yemen ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78009
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| M MUSIC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78010
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Hadath | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78011
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  EL MOLED ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78012
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | STAR CINEMA 1 | Movies ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78013
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Comedy | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78014
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Menhag Alnbowa | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78015
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  AL YOOM ZAMAN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78016
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Beur TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78017
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALQUDS TODAY TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78018
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  AL GAZAL NEWS TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78019
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Food | Panorama ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78020
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Maaref  | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78021
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sport | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78022
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Basira ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78024
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Kale Awadi TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78026
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL AAN TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78027
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Drama 2 | Panorama  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78028
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  AL MUSTAKILA | Tunisia
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78029
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Edu | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78030
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cinema | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78031
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | DMC Drama ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78032
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  SHARO5AN HINDI
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78033
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Nat Geo | Abu Dhabi ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78034
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Karma Family ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78035
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  7besha Cima ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78036
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Iraq News FHD | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78037
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Libya Febrayer
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78039
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Samarra ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78040
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | RT  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78041
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dijlah TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78042
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cinema 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78043
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cinema Pro ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78044
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| M CLASSIC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78045
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Asia | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78046
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | TokTok Aflam | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78047
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Afaq TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78048
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Ghadeer ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78049
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL ANBAR ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78050
-#EXTINF:0 tvg-id="ext" group-title="Channels",|EG| ALHAYAT DRAMA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78051
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| JO Darsak 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78052
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  MBC MASR 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78053
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Zamalek Sports ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78054
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Libya Alrasmia
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78055
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|UTV IRAQ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78056
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC5 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78057
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al wataniya | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78058
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Watan TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78059
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | El Sharq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78060
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Mekameleen TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78061
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Kaifa
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78062
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  En tv
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78063
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Alerth-Alnbawi
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78064
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Masr AL oula
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78065
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ONE TV | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78066
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sham TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78067
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Anb | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78069
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Egyptian TV HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78070
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Family | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78071
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALyoum TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78072
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Dawaah TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78073
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| i24  news arabic
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78074
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Manar | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78075
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Syria TV | Syria ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78076
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Film | Panorama ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78077
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Masryia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78078
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al anwar | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78079
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Nas | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78080
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | NILE TV | NILE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78081
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Safa tv  | Islam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78082
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | TEN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78083
-#EXTINF:0 tvg-id="ext" group-title="Channels",|IR| AL SIRAT islamic
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78084
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Karbala TV FHD | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78085
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | CIMA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78086
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| STAR CINEMA 3
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78087
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Koky | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78088
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MODY KIDS
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78089
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Yemen tv
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78090
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Yemen documentary
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78091
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Education | Yemen ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78092
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| EL Eiman TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78093
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Mamlaka TV FHD | Jordan  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78095
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Toyor aljaneh
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78096
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Toyor Baby | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78097
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC MAX ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78099
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL Hurra | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78100
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ENTV FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78101
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Palestine Live | Palestine ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78102
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Palestine TV | Palestine ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78103
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Tele FHD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78104
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sada el balad ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78105
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sada Drama | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78106
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ar | CBC Extra | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78107
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Ennahar TV | Georgia  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78108
-#EXTINF:0 tvg-id="ext" group-title="Channels",|EG| Al Mihwar Tv
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78109
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Qatar TV FHD | Qatar ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78110
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SA|Al arabiya hadath
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78111
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Janoubiya | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78112
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Nahar Tv | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78113
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MY| Ta
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78114
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cairo Drama 1 | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78115
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cartoon Network ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78116
-#EXTINF:0 tvg-id="ext" group-title="Channels",|DU| Dubai Sport 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78117
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dubai Racing FHD | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78118
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Melody Aflam
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78119
-#EXTINF:0 tvg-id="ext" group-title="Channels",|RU| Rusiya Al-Yaum
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78120
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Wanasha Tv ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78121
-#EXTINF:0 tvg-id="ext" group-title="Channels",AB | Abu Dhabi Drama HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78122
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Mayadeen | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78123
-#EXTINF:0 tvg-id="ext" group-title="Channels",|LB| Lebanon TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78125
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Mazzik
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78126
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Nour El Sham | Syria ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78127
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sama TV | Syria ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78129
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sharjah TV  FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78130
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Albait baytek
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78131
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sahel tv | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78132
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| OMAN CULTURE | OMAN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78134
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| OMAN General | OMAN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78135
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Apple Today ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78137
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Apple Comedy ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78138
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Apple Cinema ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78139
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Apple Mosalsalat ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78140
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Apple Film ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78141
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Apple Hekayat ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78142
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SY| SYRIA NEWS
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78143
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SY| SURIANA TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78144
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Lana TV | Syrian  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78145
-#EXTINF:0 tvg-id="ext" group-title="Channels",|IQ| ALIMAN TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78146
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | iFilm ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78147
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL MASIRAH TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78148
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | RT News TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78150
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BBC WORLD TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78151
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | DW TV FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78152
-#EXTINF:0 tvg-id="ext" group-title="Channels",|DZ| PROGRAMME NAT  ALGE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78154
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| ArryadiaSD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78157
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| AthaqafiaSD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78159
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA LaayouneTVSD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78160
-#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TV5-MONDE-STYLE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78162
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Tunisia-nat1-hd
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78163
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| Athaqafia-H265
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78164
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| Laayoune-TV-H265
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78167
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| Arryadia-H265
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78168
-#EXTINF:0 tvg-id="ext" group-title="Channels",TN | WATANIA 2 -BISS
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78171
-#EXTINF:0 tvg-id="ext" group-title="Channels",trse
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78172
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ABN TVⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78173
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALHAWYAH TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78174
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALLAHDAH TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78175
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Fady ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78177
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Horreyaⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78178
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Al Ons TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78179
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al karma TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78180
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AnwarTV2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78181
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ElKeraza ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78182
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Glory of God TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78183
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| IFA FAYINA TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78184
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Future TV | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78185
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Jesus Wonderful TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78186
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Koogi
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78187
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | WTV | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78188
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Logos TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78189
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Mariam TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78190
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Misr ElBald ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78191
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Nour Koddass
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78193
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Oofq
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78194
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Prophetic Channel
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78195
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Suboro TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78196
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| The Savior
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78197
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| The Way
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78198
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Waad
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78199
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| YOUSAT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78200
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|    A TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78201
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| dmc masraheyat
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78202
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Aghapy Christian FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78204
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Ahwazna TVⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78205
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL ASRAR TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78206
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL GAZAL NEWS TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78207
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL HAQEQA AL DAWLIAH | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78208
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL MASRAWIA AFLAM
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78209
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL MDEEH
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78210
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL NADA TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78211
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL SHARQIYA HD | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78212
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALAAN FM
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78213
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALL TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78214
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALSahraa
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78215
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALSeha Waljamal
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78216
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALWadi ALGaded
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78217
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Al Shabab Sport HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78220
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Al-Dawaeia TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78221
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Al-Majd3
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78222
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Hadath News ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78223
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AlHayat Sport
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78225
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Hayat 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78226
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Hayat Muslsalat ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78227
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kahera Wal Nas ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78228
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al hilal tv | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78229
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Angel TV Arabia
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78230
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Anointing TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78231
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Asharq News Channel
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78232
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Aswan
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78233
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BANNOUTA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78234
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BBC (A)
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78235
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BBC (E)
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78236
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BBC Horn of Africa
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78237
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Belqees | Yemen ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78238
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Babylon TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78239
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Bakous Alexandaria
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78240
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Bedaya
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78241
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CATV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78242
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CGTN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78243
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CGTN-Arabic
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78244
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | CTV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78245
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Canal ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78246
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Christ Army TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78247
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | D Cinema FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78248
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| DOLLY MOSALSALAT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78249
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| DRN Radio
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78250
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Dalaa Banat
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78251
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Darsak 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78252
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dzair News ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78253
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| EL AGGAR TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78254
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Energy FM
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78255
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Ethiopia Lijoch TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78256
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| HADRAMAUT TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78257
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Hadramout TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78258
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| France 24AR
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78259
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Hala London
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78260
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Hashadna TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78261
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  El Hayat ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78262
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Hooosh
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78263
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| IUC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78264
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Iraq 24 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78265
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| KBS WORLD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78266
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| KTO
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78267
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Kale Awadi TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78268
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Khaleej Arab 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78269
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Kunuz Al-Jannah
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78270
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|LAYALI ALONS
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78271
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Waad | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78272
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Libya Now
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78273
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Loveworld MENA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78274
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|M MOSALSALAT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78275
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|MBcode TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78277
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|MD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78278
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Madrastna 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78279
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Maestro TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78280
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Majid Kids TV HD | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78281
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Mar Morcos
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78282
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Mar-Cil TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78283
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Mawda
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78284
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Mega FM
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78285
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | El Mehwar TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78286
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Melody Drama
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78287
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Miracle TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78288
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Moga
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78289
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|NEC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78290
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|NHK WORLD-JAPAN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78291
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Nagham FM
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78292
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Nova Cinema 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78293
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Oyoun AlWatan
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78294
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Palestine Today | Palestine ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78295
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Palestine Radio
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78296
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Quran Kareem Radioⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78297
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|RADIO ANTINEA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78298
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Berbere  | Music ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78299
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|RADIO MARIAM ARABIC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78300
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|RMC MO
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78301
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|ROQIATY
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78302
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Radio Hits
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78303
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Syria Sat | Syria ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78304
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Scare TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78305
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SHARO5AN HINDI
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78306
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|SUHAIL TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78307
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Sawt Alitra
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78309
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|TRT KURDI
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78311
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Taqwa Tv
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78312
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Tayba TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78313
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|VOA 24
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78314
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|VOA IRAQ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78315
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ISTIQAMA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78316
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sudan TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78317
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Forat | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78318
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|Beladi
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78319
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Ahly ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78320
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  KIDS BATOOT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78321
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL Rasheed | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78322
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Chada TV | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78323
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Etejah TV FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78324
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | LBC FHD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78325
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MTV FHD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78326
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | LBC International FHD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78327
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| One HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78328
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Aghani HD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78329
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL Jadeed TV HD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78330
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | NBN HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78331
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Arabica HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78333
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Hawacom HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78334
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Tele liban TV HD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78335
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ROYA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78338
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Kuwait TV 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78339
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Ekhbaria HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78340
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Kuwait Sports HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78341
-#EXTINF:0 tvg-id="ext" group-title="Channels",|KW| Kuwait TV 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78342
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  SPORTS 1 HD | KSA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78343
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  ON  Plus HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78344
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | YAS Sports FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78345
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  MBC IRAQ HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78347
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Al Jazeera Mubasher HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78349
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Jazeera HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78350
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Al Jazeera English HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78354
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Al Khabar TV FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78355
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al taghier FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78357
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL AOULA INTER ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78358
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL MAGHRIBIA HD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78359
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Samira TV | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78360
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Alge tv6-HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78361
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Abu Dhabi TV FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78362
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Al Emarat TV FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78363
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  DMC HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78364
-#EXTINF:0 tvg-id="ext" group-title="Channels",AB |  Abu Dhabi Nat Geo FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78365
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Tamazight HD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78367
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  Assadissa HD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78368
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA|  laayoune HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78369
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| arryadia HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78370
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA|  Athaqafia HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78371
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL SHARQIYA NEWS FHD  | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78372
-#EXTINF:0 tvg-id="ext" group-title="Channels",|VIP| SHAHID DRAMA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78373
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Tunisia Nat1 FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78374
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | TRT Arabic HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78375
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Saudi Quran TVⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78376
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| LaayouneFHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78377
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Aoula | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78378
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Maghribia FHD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78379
-#EXTINF:0 tvg-id="ext" group-title="Channels",|MA| Arryadia FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78380
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Assadissa FHD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78381
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AthaqafiaFHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78382
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Tamazight FHD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78383
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Medi1 TV HD | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78384
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TRT-WORLD FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78385
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TV5-MONDE-MAG FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78386
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MTV HD | Lebanon  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78387
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Aghani FHD  | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78388
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL Jadeed TV FHD | Lebanon
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78389
-#EXTINF:0 tvg-id="ext" group-title="Channels",|LB| NBN FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78390
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OTV FHD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78391
-#EXTINF:0 tvg-id="ext" group-title="Channels",|LB| Arabica FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78392
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Hawacom FHD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78393
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Tele liban TV FHD | Lebanon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78394
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| DMC  FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78395
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| France-ENG 24HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78396
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TV3 ALGE FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78397
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL JAZEERA FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78398
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL AHAD HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78399
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR Souryana
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78400
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC3 HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78402
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC PLUS DRAMA  HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78405
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR| MBC MAX HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78406
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MBC  DRAMA HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78407
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC ACTION HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78408
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MBC BOLLYWOOD HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78409
-#EXTINF:0 tvg-id="ext" group-title="Channels",IQ: Alfallujah TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78445
-#EXTINF:0 tvg-id="ext" group-title="Channels",IQ: Remas HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78446
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Ajman TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78453
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Ghad ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78454
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Afrah | Music | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78455
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Sharqiya News HD | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78456
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Al Waha
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78457
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Dubai One FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78458
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dubai Sports FHD | Dubai ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78459
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Dubai Sports 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78460
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Dubai Sports 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78461
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Dubai SPORTS 4
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78463
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: FOX Action Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78464
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: FOX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78465
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Fox Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78466
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Fujairah TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78467
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: HRN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78468
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC 5 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78469
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  B4U Aflam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78470
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Drama FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78471
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ae: MBC Drama+ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78472
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Iraq FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78473
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Masr 1 FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78474
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Masr 2 FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78475
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC Max FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78476
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC PANORAMA FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78477
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC VARIETY HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78478
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC VARIETY+
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78479
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  WANASH | MBC  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78480
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Action
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78481
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Arabic Films
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78482
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Discovery
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78483
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR MyHD Aroma Discovery
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78484
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Drama Films
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78485
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Horror
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78486
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Kids
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78487
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Masra7yat
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78488
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma WWE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78489
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Aroma Zaman
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78490
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Box Office 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78491
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Box Office 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78492
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Box Office 3
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78493
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Box Office 4
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78494
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD CINEMA 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78495
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD CINEMA 4
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78496
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD CINEMA 6
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78497
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD CINEMA 7
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78498
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Discovery HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78499
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR MyHD Discovery ID
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78500
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Discovery Science HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78501
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR MyHD Discovery Science HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78502
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD DOCU BOX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78503
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FIGHT BOX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78504
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR MyHD FIGHT BOX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78505
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Fix Foxi
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78506
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FOX ACTION
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78507
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FOX ACTION MOVEIS 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78508
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Fox Action Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78509
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FOX Crime HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78510
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FOX FAMILY MOVEIS 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78511
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Fox Family Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78512
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FOX Life HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78513
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR MyHD FOX Life HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78514
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Fox Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78515
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FOX Rewayat HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78516
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD FX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78517
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Gulli HD | MyHD | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78519
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD HOME CINEMA 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78520
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD HOME CINEMA 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78521
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD HOME CINEMA 3
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78522
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD HOME CINEMA 4
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78523
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD HOME CINEMA 5
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78524
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD HOME CINEMA 6
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78525
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Kids BABY 123 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78526
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Kids BABY ABC HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78527
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Kids Pink Panther
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78528
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Laab Wa Jad HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78529
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD MBC 5 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78531
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD MBC Action HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78532
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  MBC Drama HD | MyHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78533
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD MBC Drama+ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78534
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD MBC Iraq HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78535
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD MBC Massr HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78536
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD NAT GEO Wild
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78537
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD NETFLIX ACTION
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78538
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Planet Earth HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78539
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Shahed Action
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78540
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Shahed Aflam
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78541
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Shahed Hindi
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78542
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Shahed Horror
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78543
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Shahed TV 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78544
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD Shahed TV 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78545
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD STAR Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78546
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD TCM HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78547
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD TDC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78548
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD TIJI
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78549
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD TDC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78550
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD TIJI
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78551
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MyHD TRACE SPORT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/78552
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79028
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79029
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79030
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 4ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79031
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 5ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79032
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 6ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79033
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 7ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79034
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | bein Sports 1ⓧ (ENG) HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79038
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | bein Sports 2ⓧ (ENG) HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79039
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | bein Sports 3ⓧ (ENG) HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79040
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1 PREMIUMⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79050
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2 PREMIUMⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79051
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3 PREMIUMⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79052
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79053
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79054
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79055
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 4ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79056
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 5ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79057
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 6ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79058
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 7ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79059
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1 PREMIUMⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79060
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2 PREMIUMⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79061
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3 PREMIUMⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79062
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79063
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79064
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79065
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 4ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79066
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 5ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79067
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 6ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79068
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 7ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79069
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | bein Sports 1ⓧ (ENG) SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79070
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | bein Sports 2ⓧ (ENG) SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79071
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1 PREMIUMⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79082
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2 PREMIUMⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79083
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3 PREMIUMⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79084
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3ⓧ (ENG) FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79087
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2ⓧ (ENG) FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79086
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1ⓧ (ENG) FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79085
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79196
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79197
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79198
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 4ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79199
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 5ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79200
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 6ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79201
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 7ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79202
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Xtra 1ⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79203
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Xtra 1ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79204
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Xtra 1ⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79205
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | bein Sports 3ⓧ (ENG) SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79208
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 1ⓧ HD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79245
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 2ⓧ HD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79246
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 3ⓧ HD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79247
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 4ⓧ HD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79248
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 1ⓧ SD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79249
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 2ⓧ SD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79250
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 3ⓧ SD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79251
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 4ⓧ SD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79252
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Newsⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79253
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports NBAⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79254
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Newsⓧ SD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79255
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sharjah Sport FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79447
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | KSA SPORT 2 FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79448
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 1 PREMIUMⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79466
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 2 PREMIUMⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79467
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports 3 PREMIUMⓧ Full HD HEVC
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79473
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sportsⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/79506
-#EXTINF:0 tvg-id="ext" group-title="Channels",TN: El Watania 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92192
-#EXTINF:0 tvg-id="ext" group-title="Channels",TN: El Watania 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92193
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Bahrain Sports 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92320
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Bahrain Sports 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92321
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  ⓧ ALMAGHARIBIA TV | Algerie
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92588
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ⓧ CHAMS TV | Algerie
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92589
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR|  PROGRAMME NATIONAL
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92590
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AL OSTORA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92591
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALYOUM AFLAM
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92592
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALYOUM CINEMA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92593
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Belody Aflam ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92594
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | DARBAKA CINEMA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92595
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  dmc Kids
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92596
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  DR. ABO ELNASR
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92597
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Hareem Al sultan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92598
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  HEKAYA TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92599
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Tube Mosalsalat ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92600
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Quaran TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92601
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  TATT7
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92602
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALMOURABITOUNE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92606
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Ashorooq | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92607
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sudan-BNTV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92608
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Arriadia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92609
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ELMOURITANIA 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92610
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Drama | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92611
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Sudania 24 HD | Sudan
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92612
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Athagavia MOURITANIA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92613
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  EL.MAHADRA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92614
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  ELMOURITANIA
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92615
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  LIBYA RSMIA Ch
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92616
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sudan Alalamia
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92617
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sudan Al Gezira TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92618
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sudan Al Guba Al kedarah
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92619
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Istijaba TV | Sudan  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92620
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Kassala TV | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92621
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Khartoum TV | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92622
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Knowledge | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92623
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sudan Red Sea TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92624
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sudan Shamalia TV
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92625
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sudan Soqoor El Gedian
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92626
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Sport | Sudan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92627
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Tanasuh | Libya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92628
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA |  Arrabiaa HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92629
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MYHD NAT Geo HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92630
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Palestine Sport | Palestine
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92837
-#EXTINF:0 tvg-id="ext" group-title="Channels",| AR | KTV Sport Plus ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93041
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR| OSN ACTION ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93897
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR| OSN Al Yawm ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93900
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN AL YOUM ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93901
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN Alfa Al Fann ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93902
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN ALFA Al Youm ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93903
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN ALFA ALSAFWA ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93904
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN Alfa Cinema 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93905
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN Alfa Cinema 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93906
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Alfa Fann
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93907
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Alfa Musalsalat 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93908
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Alfa Musalsalat 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93909
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Alfa Music Now HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93910
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Alfa Music Now HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93911
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Alfa Safwa
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93912
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Alyum HD | OSN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93913
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN AMC Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93914
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ANIMAL PLANET HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93915
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN ANIMAL PLANET HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93916
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN ART AFLAM 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93918
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Art Hekayat 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93919
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN B Cinema
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93920
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Baby TV HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93921
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR OSN Baby TV HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93922
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN BBC FIRST HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93923
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN BBC FIRST HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93924
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Box Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93925
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Box Office 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93926
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Box Office 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93927
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Box Office 3 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93928
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Cinema
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93929
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN CINEMA 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93930
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Cinema 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93931
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN COMEDY CENTRAL HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93932
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Comedy HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93933
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Comedy Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93934
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Crime+ Investigation HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93935
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Crime+ Investigation HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93936
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Demand Extra
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93937
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Discovery HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93938
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Discovery HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93939
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Discovery History
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93940
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Discovery History
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93941
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Discovery Science HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93942
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Discovery Science HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93943
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Discovery Showcase
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93944
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Discovery Showcase
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93945
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Disney Channel HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93946
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Disney Channel HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93947
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Disney Jr HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93948
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR OSN Disney JUNIOR HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93949
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Disney Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93950
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Disney Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93951
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Disney XD HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93952
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Disney XD HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93953
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Docu
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93954
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Dreamwork
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93955
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN E! HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93956
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN E! HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93957
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Famely Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93958
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fann
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93959
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fast & Fun
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93960
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN FataFeat
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93961
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN FIGHT Network HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93962
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fine Living HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93963
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN First +2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93964
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN First HBO
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93965
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | First TV HD | OSN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93966
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fix & Foxi
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93967
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Food
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93968
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fox Action HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93969
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fox Action Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93970
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fox Family HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93971
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fox Family Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93972
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN FOX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93973
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fox Movie HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93974
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fox News HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93975
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Fuel HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93976
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN FX HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93977
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Gulli HD | OSN | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93979
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN H2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93980
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN History 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93981
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN History Channel
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93982
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN History Channel
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93983
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Home Cinema 1 FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93984
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Home Cinema 2 FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93985
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Investigation Discovery
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93986
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Investigation Discovery
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93987
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ITV Choice
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93988
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN JimJam
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93989
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN JimJam
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93990
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Kids
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93991
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN KIDS ZONE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93992
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN KidsCo Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93993
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Living HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93994
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MasterPiece Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93995
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MBC Variety HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93996
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MBC+ Drama HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93997
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MOSALSALAT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93998
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MOUSALSALAT 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/93999
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movie 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94000
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MOVIE COMEDY 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94001
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MOVIE FIRST 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94002
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies +2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94003
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94004
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Action +2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94005
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Action 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94006
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Action 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94007
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Action HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94008
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Box Office 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94009
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Box Office 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94010
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Box Office 3 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94011
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Comedy +2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94012
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Comedy HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94013
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Disney HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94014
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Movies Disney HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94015
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Drama HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94016
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Enigma HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94017
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Family HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94018
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Festival HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94019
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies firest
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94020
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies First +2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94021
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies FIRST HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94022
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94023
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Kids HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94024
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Premiere +2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94025
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Premiere 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94026
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies PREMIERE 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94027
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Premiere HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94028
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Thriller
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94029
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Movies Thriller +2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94030
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MTV LIVE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94031
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN MTV LIVE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94032
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MUSALSALAT 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94033
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN MUSALSALAT 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94034
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Musalsalat HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94035
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Musalsat
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94036
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Musalslat
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94037
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Music Now HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94038
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Music Now HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94039
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Muslsalat 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94040
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Muslsalat HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94041
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Myme
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94042
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN NAT GEO HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94043
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN NAT GEO PEOPLE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94045
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN NAT GEO PEOPLE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94046
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN NAT GEO Pepole
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94047
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN NAT GEO Pepole
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94048
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN NAT GEO WILD HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94049
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN NAT GEO WILD HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94050
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN News
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94051
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Nick JR HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94052
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN Nick JR HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94053
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN nickelodeon HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94054
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN nickelodeon HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94055
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN NickToon
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94056
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN NickToon
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94057
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94058
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94059
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND 3 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94060
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND 1HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94061
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND EXTRA 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94062
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND EXTRA 2 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94063
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND EXTRA 3 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94064
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON DEMAND EXTRA HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94065
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ON Demande 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94066
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN ORBIT CINEMA 1 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94067
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Orbit Cinema 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94068
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN OSN BBC First
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94069
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN OSN BBC First
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94070
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN OSN History
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94071
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN OSN History
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94072
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN OSN History 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94073
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN OSN History 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94074
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN OSN Kid Zone
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94075
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN OSN Kids
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94076
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Outdoor HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94077
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Paramount HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94078
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Planet Earth HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94079
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN PLAY
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94080
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR ANIMAL PLANET HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94081
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Premer
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94082
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Premiere Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94083
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Romance Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94084
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN SEEVI MY CINEMA HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94085
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN SeeVii Drama HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94086
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN SeeVii Prime 1 FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94087
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN SeeVii Shamiya HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94088
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Series Comedy HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94089
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Series First HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94090
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Series Frist FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94091
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Series HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94092
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Sport 1 Action
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94093
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Sport 2 Action
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94094
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN SPORTS 3 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94095
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN SPORTS 4 HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94096
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Star Movies FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94097
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Star World HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94098
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Star World India
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94099
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Syfy HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94100
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | OSN Ten Cricket ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94101
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN The Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94102
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN The Movies 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94103
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Thriller Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94104
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN TLC HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94105
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN TRACE URBAN
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94106
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Travel Channel HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94107
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN VH1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94108
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE|OSN VH1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94109
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN W Movies
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94110
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN WWE HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94111
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN WWE Network
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94112
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN YA HALA CINEMA HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94113
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN YA HALA DRAMA HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94114
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Hala HD | OSN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94115
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN YA HALA HD +2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94116
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Ya Hala! Al Oula
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94117
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE| OSN Yahala Oula HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/94118
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |KTV KHALLIK BILBAIT
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/95111
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA | AFLAM tv 7
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/96065
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Action 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100593
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100594
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100595
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 3
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100596
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 4
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100597
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 5
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100598
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 6
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100599
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 7
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100600
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Comedy 8
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100601
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Drama
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100602
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Romance
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100603
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 1
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100604
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 2
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100605
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 3
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100606
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 4
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100607
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 5
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100608
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 6
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100609
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 7
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100610
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 8
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100611
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid Tv 9
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/100612
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FOX ACTION MOVIEⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102200
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN STAR WORLDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102201
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN BOOMRANGⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102202
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN JUNIORⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102203
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN DTXⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102204
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN AMCⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102205
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN OUTDOORⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102206
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN BOOMERANGⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102207
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | JEEM | BEIN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102208
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Baraeem FHD | Bein ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102209
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FOOD NETWORKⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102210
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN ANIMAL PLANETⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102211
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN DISCOVERY KIDSⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102212
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FOXⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102213
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FOX LIFEⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102214
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FOX CRIMEⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102215
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN ACTION HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102216
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN BOX OFFICE 1 HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102217
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN CALSSIC HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102218
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN CINEMA HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102219
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN DRAMA HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102220
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FATAFEAT HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102221
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN FOX MOVIES FAMILY HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102222
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN GOURMET HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102223
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN HGTV HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102224
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN SERIES 1ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102225
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN SERIES 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102226
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN MOVIES 1 HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102227
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN MOVIES 2 ACTIONⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102228
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN MOVIES DRAMA 3 HDⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102229
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN MOVIES 4 FAMILYⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102230
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN STAR MOVIESⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102231
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Toyor Aljanah | BEIN ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102232
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cartoon Network | Bein ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102233
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SPACE TOON | BEIN | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102234
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR.BEIN| BEIN DREAMWORKSⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102235
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Xtra 1ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/92194
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 5ⓧ HD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102388
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Xtra 2ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102389
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 5ⓧ SD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102390
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 6ⓧ HD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102391
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | beIN Sports Max 6ⓧ SD OFFLINE
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/102392
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MBC FM  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104470
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cinema | Rotana | KSA ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104471
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Rotana Plus  | Rotana ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104472
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Kids | Rotana ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104473
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | LBCI  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104474
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | AND HIS PEOPLE ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104475
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | PANORAMA FM  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104476
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | THE EAST ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/104477
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kass Sports 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11348
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kass Sports 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11349
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kass Sports 3 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11350
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kass Sports 4 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11351
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kass Sports 5 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11352
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Jordan Sport TV | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11347
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Oman Sport TV | Oman ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11354
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | KTV Sport ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11353
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR| KSA Sport 1 FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11346
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Abu Dhabi Sports 1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11342
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Abu Dhabi Sports 2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11343
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Abu Dhabi Sports 3 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11344
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Abu Dhabi Sports 4 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/11345
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|ⓧ CNA | Algerie
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/111095
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 1ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114992
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 1ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114993
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 2ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114994
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 2ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114995
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 3ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114996
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 3ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114997
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 4ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114998
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 4ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/114999
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 5ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/115000
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 5ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/115001
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 6ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/115002
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 6ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/115003
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 7ⓧ FHD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/115004
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | SSC 7ⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/115005
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Aloula HD | Morocco  ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119811
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Canal Atlas | Morocco ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119812
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Afasy ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119813
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Assema ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119814
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Fajer ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119815
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Rafidain ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119818
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Rayyan FHD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119819
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Sumariya ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119922
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Anis ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119923
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al anwar 2 | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119924
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Shabab FM ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119925
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Delta | Egypt ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119926
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALGERIE 4 | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119927
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALGERIE 5 | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119928
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALGERIE A3 | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119929
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALGERIE 1 | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119930
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Algerie National | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119931
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Alhadef | Algerie ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119932
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Kahera Wal Nas +2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/119933
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Naeem ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120085
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Qamar ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120086
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | ALRAI HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120087
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Salam | Palestine ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120088
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Al Wifaq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120089
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Amman TV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120090
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Ann News ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120091
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Attesisa | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120092
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | B4U Plus ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120093
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Baghdad ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120094
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Bahrain International ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120095
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Carthage + | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120096
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Cnbc News ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120097
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dream ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120098
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Dzaier tv ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120099
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | MeSat HD ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120100
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Funoon ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120101
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR |  Al Hiwar TV FHD | Tunisia ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120102
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Hona | Baghdad ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120103
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Shabab | Iraq ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120519
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Today | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120520
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Zweina | Jordan ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120521
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | Kramesh | Kids ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120522
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | KTV ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120523
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | KTV CH1 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120524
-#EXTINF:0 tvg-id="ext" group-title="Channels",AR | KTV CH2 ⓧ
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/120525
+,Sirin FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118595
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Radio Active - Kütahya
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118596
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Radyo Flash - Giresun
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118597
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Radyo Metropol - Mersin
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118598
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Radyo Fresh - K Maras
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118599
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Radyo Safak - Gaziantep
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118600
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",1001 FM - M.Kemal Pasa
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118601
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",71 Radyo - Kirikkale
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118602
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Adana Süper FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118603
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",AdyÜ - Adiyaman FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118604
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Akdag - Akdagmadeni FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118605
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Aksaray Kral FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118606
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Arkadas - Isparta FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118607
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Atlantis FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118608
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Baris - Adana FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118609
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Bey - Beysehir FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118610
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Bizim - Sile FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118611
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Bursa FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118612
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Caglar - Malatya FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118613
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Cagri FM-Diyarbakır
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118614
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Cem Radyo - Istanbul
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118615
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Cesur - K Maras FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118616
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Cihan - Tosya FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118617
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Corum FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118618
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Davet Radyo - Gaziantep
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118619
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Deniz - Kayseri FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118620
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Dost - Antakya FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118621
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Ege - Turgutlu FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118622
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Ender - Adana FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118623
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",Es - Eskisehir FM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118624
+#EXTINF:0 tvg-id="mezzo-hd" group-title="TURK DINI",MEZZO LIVE
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/162794
+#EXTINF:0 tvg-id="mezzo-hd" group-title="TURK DINI",MEZZO LIVE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/162795
+#EXTINF:0 tvg-id="mezzo-hd" group-title="TURK DINI",MEZZO LIVE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/162796
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",✪✪✪✪✪ WORLD SPORTS ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/99600
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT NEWS (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94275
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94276
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94277
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT ACTION (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94278
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORTS ARENA (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94279
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT MIX (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94280
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94281
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORTS F1 (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94282
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT GOLF (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94283
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT CRICKET (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94284
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ELEVEN SPORT 1 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94293
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ELEVEN SPORT 2 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94294
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: beiN SPORTS 1 HD+(TR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94295
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: beiN SPORTS 2 HD+(TR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94296
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT NEWS (DE)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94297
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT 1 (DE)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94298
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SKY SPORT 2 (DE)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94299
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BUNDESLIGA 1 (DE)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94300
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: DAZN Sport 1 HD (DE)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94301
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: DAZN Sport 2 HD (DE)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94302
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ESPN 1 HD (NL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94303
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ESPN 2 HD (NL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94304
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ZIGGO SPORT SELECT HD (NL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94305
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ELEVEN SPORT 1 (PL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94306
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ELEVEN SPORT 2 (PL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94307
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: ELEVEN SPORT 3 (PL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94308
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Canal  Sport 1 HD (PL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94309
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Canal  Sport 2 HD (PL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94310
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORTS 1 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94311
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORTS 2 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94312
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORTS 3 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94313
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: RMC SPORT 1 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94314
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: RMC SPORT 2 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94315
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: RMC SPORT 3 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94316
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: RMC SPORT 4 (FR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94317
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORTS 11 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94348
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORTS 12 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94349
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: AL KASS SPORTS 1 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94350
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: AL KASS SPORTS 2 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94351
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: UFC Network
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94352
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: NBA Network (US)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94353
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: NHL Network (US)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94354
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: MLB Network (US)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94355
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: NFL Network (US)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94356
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: WWE Network (US)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94357
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",AZ: CBC SPORT TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/83094
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BT SPORT 1 (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94285
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BT SPORT 2 (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94286
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BT SPORT 3 (UK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94287
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT TV 1 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94288
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT TV 2 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94289
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT TV 3 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94290
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT TV 4 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94291
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT TV 5 (PT)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94292
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94320
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94321
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94322
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94323
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94324
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94325
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94326
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94327
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94328
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Super Sport 1 (AL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94329
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Super Sport 2 (AL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94330
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Super Sport 3 (AL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94331
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Tring Sport 1 (AL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94332
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: Tring Sport 2 (AL)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94333
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: DIGI SPORT 1 (RO)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94334
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: DIGI SPORT 2 (RO)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94335
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: DIGI SPORT 3 (RO)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94336
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: DIGI SPORT 4 (RO)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94337
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 1 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94338
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 2 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94339
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 3 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94340
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 4 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94341
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 5 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94342
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 6 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94343
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 7 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94344
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 8 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94345
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 9 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94346
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",VIP SPORT: BEIN SPORT 10 (AR)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/94347
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: VIP SPORTS: Fox Sports 1 HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100134
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: VIP SPORTS: Fox Sports 2 HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100135
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: VIP SPORTS: Fox Sports 3 HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100136
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: VIP SPORTS: Fox Sports 4 HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100137
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: VIP SPORTS: Fox Sports 5 HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100138
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: VIP SPORTS: Fox Sports 6 HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100139
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ZIGGO SPORT DOCU HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118281
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ZIGGO SPORT VOETBAL HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118285
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ZIGGO RACING HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118286
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ZIGGO SPORT DOCU HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118287
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="TURK DINI",NL: ZIGGO SPORT GOLF HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118288
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="TURK DINI",NL: ZIGGO SPORT SELECT HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118289
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ZIGGO SPORT EXTRA
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118290
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="TURK DINI",NL: 24 KITCHEN HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100172
+#EXTINF:0 tvg-id="AnimalPlanet.nl" group-title="TURK DINI",NL: ANIMAL PLANET HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100173
+#EXTINF:0 tvg-id="BBCentertainment.nl" group-title="TURK DINI",NL: BBC ENTERTAINMENT
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100174
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: BBCFIRST HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100175
+#EXTINF:0 tvg-id="CartoonNetwork.nl" group-title="TURK DINI",NL: CARTOON NETWORK
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100176
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: CBS REALITY
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100177
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: COMEDY CENTRAL EXTRA
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100178
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: COMEDY CENTRAL HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100179
+#EXTINF:0 tvg-id="NickJr.nl" group-title="TURK DINI",NL: NICK JR
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100180
+#EXTINF:0 tvg-id="NickToons.nl" group-title="TURK DINI",NL: NICK TOONS
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100181
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: NICKELODEON HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100182
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: RTL TELEKIDS HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100183
+#EXTINF:0 tvg-id="BabyTV.nl" group-title="TURK DINI",NL: BABY TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100184
+#EXTINF:0 tvg-id="Boomerang.nl" group-title="TURK DINI",NL: BOOMERANG
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100185
+#EXTINF:0 tvg-id="DisneyChannel.nl" group-title="TURK DINI",NL: DISNEY CHANNEL HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100186
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: DISNEY XD / VERONICA HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100187
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: E! HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100188
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: EEN HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100189
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: DISCOVERY ID HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100190
+#EXTINF:0 tvg-id="DiscoveryHD.be" group-title="TURK DINI",NL: DISCOVERY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100191
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: DISCOVERY ID HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100192
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: DISCOVERY SCIENCE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100193
+#EXTINF:0 tvg-id="DiscoveryWorld.nl" group-title="TURK DINI",NL: DISCOVERY WORLD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100194
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: LOVE NATURE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100196
+#EXTINF:0 tvg-id="NGCWild.be" group-title="TURK DINI",NL: NAT GEO WILD HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100197
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: EUROSPORT 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100209
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: EUROSPORT 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100210
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: FILM 1 ACTION HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100214
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: FILM 1 DRAMA HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100215
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: FILM 1 FAMILY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100216
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: FILM 1 PREMIERE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100217
+#EXTINF:0 tvg-id="FOX.nl" group-title="TURK DINI",NL: FOX
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100218
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ESPN 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100219
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ESPN 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100220
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ESPN 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100221
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: ESPN 4 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100222
+#EXTINF:0 tvg-id="Discovery.nl" group-title="TURK DINI",NL: Discovery Channel
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100230
+#EXTINF:0 tvg-id="CrimeAndInvestigation.nl" group-title="TURK DINI",NL: CRIME & INVESTIGATION
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100234
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX CONCERT
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100345
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX NIEUWE FILMS
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100346
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX ACTIE 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100347
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX ACTIE 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100348
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX ACTIE 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100349
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX ANIMATIE 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100350
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX ANIMATIE 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100351
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX ANIMATIE 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100352
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX DRAMA 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100353
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX DRAMA 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100354
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX HORROR 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100355
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",NL: REDBOX HORROR 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100356
